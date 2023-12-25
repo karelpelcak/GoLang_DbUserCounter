@@ -19,13 +19,13 @@ Before using this tool, ensure you have the following:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/karelpelcak/GoLang_UserCounter
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repository
+    cd GoLang_UserCounter
     ```
 
 3. **Modify the `main.go` file with your SQL Server connection details and target table name.**
